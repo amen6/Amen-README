@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **Computer Science**
 
-- 👨‍💻 All of my projects are available at [later](laterr)
+- 👨‍💻 Check my portfolio at [https://amen-portfolio.vercel.app/](https://amen-portfolio.vercel.app/)
 
 - 📝 I write articles on [https://amennafeh.medium.com/](https://amennafeh.medium.com/)
 
